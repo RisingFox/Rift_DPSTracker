@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/rift.png" alt="Rift" width="72" height="72">
+
 # Rift
 
 ### Damage meter for Aion 2
@@ -25,6 +27,18 @@ A compact meter in game. The details when you need them.
 Rift – бесплатный трекер урона для глобальной версии Aion 2. Маленькое окно показывает бой поверх игры, а большое помогает разобраться в результатах, посмотреть историю и открыть профиль игрока.
 
 > **Сейчас идёт тестирование.** Возможны ошибки распознавания, расчётов и отображения. После обновлений игры совместимость может потребовать исправлений.
+
+### Как это выглядит
+
+**Компактная метрика**
+
+<img src="assets/overlay-ru.png" alt="Компактная метрика Rift: пять игроков, урон и доля каждого" width="360">
+
+**Большое окно с разбором боя**
+
+![Окно Rift: результаты группы, график DPS и подробная таблица навыков](assets/fight-ru.png)
+
+*Снимки настоящего интерфейса на демонстрационных данных. Ники и результаты вымышленные; метрика показана на нейтральном фоне.*
 
 ### Скачать и начать
 
@@ -123,6 +137,18 @@ Rift сам не перезапускается во время боя. Наст
 Rift is a free damage meter for the global version of Aion 2. A small overlay keeps the fight in view, while the main window lets you explore results, browse fight history and open player profiles.
 
 > **Currently in testing.** Recognition, calculations and display may contain errors. Game updates may require compatibility fixes.
+
+### A look inside
+
+**Compact meter**
+
+<img src="assets/overlay-en.png" alt="Compact Rift meter showing five players, damage and contribution" width="360">
+
+**Main window and fight breakdown**
+
+![Rift main window with group results, a DPS chart and a detailed skill table](assets/fight-en.png)
+
+*Screenshots of the actual interface using demonstration data. Player names and results are fictional; the meter is shown against a neutral background.*
 
 ### Download and get started
 
